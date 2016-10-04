@@ -1,1 +1,1 @@
-echo AKIYO
+echo "changing file to do conflicting merge"
